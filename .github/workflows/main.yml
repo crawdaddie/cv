@@ -28,7 +28,7 @@ jobs:
         name: public
     - name: list
       run: |
-        ls public
+        ls cv
     # - name: Upload build to s3
     #   uses: aws/cli
     #   env:
