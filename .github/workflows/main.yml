@@ -11,6 +11,5 @@ jobs:
     - name: hugo
       uses: klakegg/actions-hugo@1.0.0
     - name: list public dir
-    - name: list public dir
       run: |
         ls public
