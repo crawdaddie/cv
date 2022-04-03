@@ -13,15 +13,15 @@ Full-stack developer and computer musician passionate about new technologies, ex
 #### London - 2/2021 - 6/2021 
 Lead developer on Octeract’s interactive MINLP solver gui 
 - backend services that spawn dockerized python environments which offer interactive solving of MINLP problems expressed in python code
-- browser-based development environment and REPL communicating with python environments over websockets
+- {{<kwt "reactjs">}}browser-based development environment and REPL communicating with python environments over websockets{{</kwt>}}
 
 ### Birdie — Full-stack developer
 #### London - 11/2019 - 2/2021
 Development of various frontend and backend components of Birdie’s elderly care software ecosystem by 
-- {{<kwt keywords="typescript nestjs">}}taking the lead on conversion of older models to event-sourcing{{</kwt>}}
-- {{<kwt keywords="typescript nestjs">}}improving performance of services by caching and encouraging use of transaction-safe updates{{</kwt>}}
-- {{<kwt keywords="aws">}}added compression to api responses validating 90% avg reduction in payload size, and 50% avg reduction in response | times: 1{{</kwt>}}
-- {{<kwt keywords="typescript nestjs">}}helping improve system consistency by implementing utilities for optimistic concurrency control{{</kwt>}}
+- {{<kwt "typescript nestjs">}}taking the lead on conversion of older models to event-sourcing{{</kwt>}}
+- {{<kwt "typescript nestjs">}}improving performance of services by caching and encouraging use of transaction-safe updates{{</kwt>}}
+- {{<kwt "aws">}}added compression to api responses validating 90% avg reduction in payload size, and 50% avg reduction in response | times: 1{{</kwt>}}
+- {{<kwt "typescript nestjs">}}helping improve system consistency by implementing utilities for optimistic concurrency control{{</kwt>}}
 - championing rigorous use of e2e and integration tests in my squad for user-facing functionality
 - working closely with designers and other product stakeholders to ensure alignment with user needs
 - pushing for high technical standards and highlighting risks of excessive technical debt
@@ -29,7 +29,7 @@ Development of various frontend and backend components of Birdie’s elderly car
 
 ### Vectary — 3D developer
 #### Bratislava - 06/2019 - 10/2019
-- {{<kwt keywords="threejs typescript">}}Refactoring and development of Vectary’s 3D-modelling engine (typescript and THREE.js){{</kwt>}}
+- {{<kwt "threejs typescript">}}Refactoring and development of Vectary’s 3D-modelling engine (typescript and THREE.js){{</kwt>}}
 - researching modern and best-practice webGL api usage
 - making detailed optimisations for browser performance
 - responsible for developing robust importer/exporter tools for proprietary 3D file format by reverse-engineering
@@ -46,8 +46,8 @@ Mathematical modelling to optimise custom tools in Grasshopper for Rhino (also u
 
 ### Lab.SNG — software developer
 #### Bratislava - 01/2018 - 06/2019
-- {{<kwt keywords="elasticsearch">}}Development and maintenance of the web-umenia search API for the archives of the Slovak National Gallery{{</kwt>}}
-- {{<kwt keywords="docker">}}introducing Docker to team workflow{{</kwt>}}
+- {{<kwt "elasticsearch">}}Development and maintenance of the web-umenia search API for the archives of the Slovak National Gallery{{</kwt>}}
+- {{<kwt "docker">}}introducing Docker to team workflow{{</kwt>}}
 
 ### Kiwi.com — Junior Python Developer
 #### Bratislava -  11/2016 - 12/2017
