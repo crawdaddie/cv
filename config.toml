@@ -7,13 +7,12 @@ math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
 
 [params]
-  author = "Olivier Roques"
-  description = "A simple monospaced resume theme for Hugo."
+  author = "Adam Juraszek"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
-    text = "By Olivier Roques"
-    url = "https://github.com/ojroques/hugo-researcher"
+    text = "By Adam Juraszek"
+    url = "https://github.com/crawdaddie"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "1000px"
@@ -22,22 +21,18 @@ googleAnalytics = ""  # add your tracking id
     colorRed = "#ee7772"
     background = "#e0e0e0"
   [[params.socialIcons]]
-    icon = "fab fa-twitter"
-    title = "Twitter"
-    url = "https://twitter.com/"
-  [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "E-mail"
-    url = "mailto:mail@example.com"
+    url = "mailto:adam.a.juraszek@googlemail.com"
 
 [permalinks]
   "/" = "/:filename"
 
-[menu]
-  [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 1
+# [menu]
+#   [[menu.main]]
+#     name = "About"
+#     url = "/about"
+#     weight = 1
   [[menu.main]]
     name = "Resume"
     url = "/resume.pdf"
