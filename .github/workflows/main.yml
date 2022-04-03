@@ -1,9 +1,8 @@
 # This is a basic workflow to help you get started with Actions
 name: Hugo
-# on:
-#   push:
-#     branches: [ main ]
-on: [push]
+on:
+  push:
+    branches: [ main ]
 jobs:
   build:
     runs-on: ubuntu-latest
