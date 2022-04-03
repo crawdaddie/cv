@@ -28,7 +28,7 @@ jobs:
         name: public
     - name: Upload build to s3
       run: |
-        aws s3 sync . s3://${AWS_S3_BUCKET}
+        aws s3 sync . s3://$AWS_S3_BUCKET
       env:
         S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
