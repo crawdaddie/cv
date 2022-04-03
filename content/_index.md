@@ -18,10 +18,10 @@ Lead developer on Octeract’s interactive MINLP solver gui
 ### Birdie — Full-stack developer
 #### London - 11/2019 - 2/2021
 Development of various frontend and backend components of Birdie’s elderly care software ecosystem by 
-- taking the lead on conversion of older models to event-sourcing
-- improving performance of services by caching and encouraging use of transaction-safe updates 
-- added compression to api responses validating 90% avg reduction in payload size, and 50% avg reduction in response | times: 1
-- helping improve system consistency by implementing utilities for optimistic concurrency control
+- {{<kwt keywords="typescript nestjs">}}taking the lead on conversion of older models to event-sourcing{{</kwt>}}
+- {{<kwt keywords="typescript nestjs">}}improving performance of services by caching and encouraging use of transaction-safe updates{{</kwt>}}
+- {{<kwt keywords="aws">}}added compression to api responses validating 90% avg reduction in payload size, and 50% avg reduction in response | times: 1{{</kwt>}}
+- {{<kwt keywords="typescript nestjs">}}helping improve system consistency by implementing utilities for optimistic concurrency control{{</kwt>}}
 - championing rigorous use of e2e and integration tests in my squad for user-facing functionality
 - working closely with designers and other product stakeholders to ensure alignment with user needs
 - pushing for high technical standards and highlighting risks of excessive technical debt
