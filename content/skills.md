@@ -15,6 +15,7 @@ title = "Skills"
 -	Max/MSP, PureData
 
 ## Selected Projects / Performances
+- [this CV](https://github.com/crawdaddie/cv)
 - [Supercollider Composition toolkit](https://github.com/crow-eggs/sc-project-framework "sc")
   - Loosely-coupled set of tools and GUIs for algorithmic composition with Supercollider.
   - polymorphic treatment of static or generative musical elements
