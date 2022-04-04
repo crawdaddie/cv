@@ -12,8 +12,8 @@ Full-stack developer and computer musician passionate about new technologies, ex
 ### Octeract — Full-stack developer
 #### London - 2/2021 - 6/2021 
 Lead developer on Octeract’s interactive MINLP solver gui 
-- backend services that spawn dockerized python environments which offer interactive solving of MINLP problems expressed in python code
-- {{<kwt "reactjs">}}browser-based development environment and REPL communicating with python environments over websockets{{</kwt>}}
+- {{<kwt "python docker">}}backend services that spawn dockerized python environments which offer interactive solving of MINLP problems expressed in python code{{</kwt>}}
+- {{<kwt "reactjs python">}}browser-based development environment and REPL communicating with python environments over websockets{{</kwt>}}
 
 ### Birdie — Full-stack developer
 #### London - 11/2019 - 2/2021
@@ -29,20 +29,21 @@ Development of various frontend and backend components of Birdie’s elderly car
 
 ### Vectary — 3D developer
 #### Bratislava - 06/2019 - 10/2019
-- {{<kwt "threejs typescript">}}Refactoring and development of Vectary’s 3D-modelling engine (typescript and THREE.js){{</kwt>}}
-- researching modern and best-practice webGL api usage
+{{<kwt "threejs typescript">}}Refactoring and development of Vectary’s 3D-modelling engine (typescript and THREE.js){{</kwt>}}
+- {{<kwt webgl>}}researching modern and best-practice WebGL api usage{{</kwt>}}
 - making detailed optimisations for browser performance
 - responsible for developing robust importer/exporter tools for proprietary 3D file format by reverse-engineering
 - extensive use of v8 profiler in browser dev tools
 
 ### Subdigital — software developer
 #### Bratislava - 08/2018 - 06/2019
-- Design and development of software components of digitally-enhanced architectural models and installations
+Design and development of software components of digitally-enhanced architectural models and installations
 - helping design the overall architecture of hardware and software components
-- developing backends with node.js and typescript, user interfaces with react or just html5
+- building sensors and controllers with arduino and raspberry pi
+- {{<kwt "node typescript html css">}}developing backends with node.js and typescript, user interfaces with vanillajs{{</kwt>}}
 - optimising work for graphics performance and building native software using OpenFrameworks (C++) when we could not achieve what we needed by other means
-- building prototypes that helped Subdigital entice new clients and secure contracts - helped deploy and maintain installations on-site, or remotely via ssh - for several projects I was the lead or sole developer
-Mathematical modelling to optimise custom tools in Grasshopper for Rhino (also using numpy for prototyping solutions)
+- building prototypes that helped Subdigital develop new clients - helped deploy and maintain installations on-site, or remotely via ssh - for several projects I was the lead or sole developer
+- {{<kwt "numpy matplotlib">}}Mathematical modelling to optimise custom tools in Grasshopper for Rhino (also using numpy for prototyping solutions){{</kwt>}}
 
 ### Lab.SNG — software developer
 #### Bratislava - 01/2018 - 06/2019
@@ -51,7 +52,7 @@ Mathematical modelling to optimise custom tools in Grasshopper for Rhino (also u
 
 ### Kiwi.com — Junior Python Developer
 #### Bratislava -  11/2016 - 12/2017
-- Development of internal HR software using Django, Docker and elasticsearch
+- {{<kwt "django docker elasticsearch postgresql">}}Development of internal HR software using Django, Docker and elasticsearch{{</kwt>}}
 
 ## Education 
 ### Institute of Sonology, Koninklijk Conservatorium — MMus 
