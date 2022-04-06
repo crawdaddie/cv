@@ -2,12 +2,14 @@
 title = "Adam Juraszek | Resume"
 +++
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
-Full-stack developer and computer musician passionate about new technologies, experimentation and clean solutions
-
+Backend engineer with 6 years of experience passionate about new technologies, experimentation and clean solutions
 
 ## Experience
 ### Curation Corporation - Senior backend engineer
 #### London - 6/2021 - present
+Development of tools and data pipelines that support ESG experts in synthesising smart insights and business intelligence
+- {{<kwt "typescript nodejs kubernetes docker">}}designed, implemented and launched new services for creating automated email briefings which cut down the time taken to create briefings by a factor of 6{{</kwt>}}
+<!-- - {{}}{{}} -->
 
 ### Octeract — Full-stack developer
 #### London - 2/2021 - 6/2021 
@@ -18,14 +20,12 @@ Lead developer on Octeract’s interactive MINLP solver gui
 ### Birdie — Full-stack developer
 #### London - 11/2019 - 2/2021
 Development of various frontend and backend components of Birdie’s elderly care software ecosystem by 
-- {{<kwt "typescript nestjs">}}taking the lead on conversion of older models to event-sourcing{{</kwt>}}
-- {{<kwt "typescript nestjs">}}improving performance of services by caching and encouraging use of transaction-safe updates{{</kwt>}}
-- {{<kwt "aws">}}added compression to api responses validating 90% avg reduction in payload size, and 50% avg reduction in response | times: 1{{</kwt>}}
+- {{<kwt "typescript nestjs">}}improved performance of backend services by adding permissions-caching layers{{</kwt>}}
+- {{<kwt "aws">}}added compression to api responses validating 90% avg reduction in payload size, and 50% avg reduction in response times{{</kwt>}}
 - {{<kwt "typescript nestjs">}}helping improve system consistency by implementing utilities for optimistic concurrency control{{</kwt>}}
-- championing rigorous use of e2e and integration tests in my squad for user-facing functionality
 - working closely with designers and other product stakeholders to ensure alignment with user needs
 - pushing for high technical standards and highlighting risks of excessive technical debt
-- helping other developers through code-reviews, 1-1s and pair-programming
+
 
 ### Vectary — 3D developer
 #### Bratislava - 06/2019 - 10/2019
@@ -34,28 +34,24 @@ Development of various frontend and backend components of Birdie’s elderly car
 - making detailed optimisations for browser performance
 - responsible for developing robust importer/exporter tools for proprietary 3D file format by reverse-engineering
 - extensive use of v8 profiler in browser dev tools
-
 ### Subdigital — software developer
 #### Bratislava - 08/2018 - 06/2019
 Design and development of software components of digitally-enhanced architectural models and installations
-- helping design the overall architecture of hardware and software components
-- building sensors and controllers with arduino and raspberry pi
-- {{<kwt "node typescript html css">}}developing backends with node.js and typescript, user interfaces with vanillajs{{</kwt>}}
-- optimising work for graphics performance and building native software using OpenFrameworks (C++) when we could not achieve what we needed by other means
-- building prototypes that helped Subdigital develop new clients - helped deploy and maintain installations on-site, or remotely via ssh - for several projects I was the lead or sole developer
+- building prototypes that helped Subdigital develop new clients 
+- responsibility for architecture of hardware and software components of installations
+- {{<kwt hardware>}}building sensors and controllers with arduino and raspberry pi{{</kwt>}}
+- {{<kwt "nodejs typescript html css">}}building backends with node.js and typescript, user interfaces with vanillajs{{</kwt>}}
 - {{<kwt "numpy matplotlib">}}Mathematical modelling to optimise custom tools in Grasshopper for Rhino (also using numpy for prototyping solutions){{</kwt>}}
-
 ### Lab.SNG — software developer
 #### Bratislava - 01/2018 - 06/2019
 - {{<kwt "elasticsearch">}}Development and maintenance of the web-umenia search API for the archives of the Slovak National Gallery{{</kwt>}}
 - {{<kwt "docker">}}introducing Docker to team workflow{{</kwt>}}
-
 ### Kiwi.com — Junior Python Developer
 #### Bratislava -  11/2016 - 12/2017
 - {{<kwt "django docker elasticsearch postgresql">}}Development of internal HR software using Django, Docker and elasticsearch{{</kwt>}}
 
 ## Education 
-### Institute of Sonology, Koninklijk Conservatorium — MMus 
+### Institute of Sonology, Koninklijk Conservatorium — MMus
 Den Haag - 09/2014 - 10/2016
 - Thesis focusing on cyborg aesthetics in electronic music, but also studied music computing, design and development of software synthesis and music performance systems, history and theory of algorithmic music and sound studies
 - gave many concerts of my own music, often using self-built tools - took part in ensemble performances in the fields of free-improvisation and jazz-influenced electronics - gained experience of  curation and technical production of experimental music events
