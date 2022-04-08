@@ -2,7 +2,10 @@
 title = "Adam Juraszek | Resume"
 +++
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
-Backend engineer with 6 years of experience passionate about new technologies, experimentation and clean solutions
+Backend engineer with 6 years of experience passionate about experimentation and clean solutions.  
+I work closely with product stakeholders to ensure alignment with user needs, and try to learn as much as possible from every member of a team I interact with.  
+In my most recent roles I have focused on optimising my backend work for consistency, fault-tolerance and observability, while pushing for high technical standards from myself and colleagues.  
+I am most interested in roles where I can build on my technical leadership, and work on distributed, data-intensive cloud-native systems.
 
 ## Experience
 ### Curation Corporation - Senior backend engineer
@@ -11,12 +14,12 @@ London - 6/2021 - present
 - {{<kwt "typescript nodejs kubernetes docker graphql">}}designed, implemented and launched new features for creating automated email briefings which cut down the time taken to create briefings to 16% compared to previous non-integrated workflows{{</kwt>}}
 - {{<kwt "kubernetes elasticsearch nodejs">}}maintenance and tuning of ETL pipelines which process 3 million articles a day and push them to different search indices{{</kwt>}}
 - {{<kwt "python fastapi">}}productionisation and deployment of NLP models as FastAPI services for purposes of abstractive text-summarisation and entity extraction{{</kwt>}}   
-  in the case of abstractive text-summarisation services on GPUs, this reduced the time taken to generate an abstract to 10% compared to a CPU-based deployment
+  in the case of abstractive text-summarisation performed on GPUs, this reduced the time taken to generate an abstract to 10% compared to a CPU-based deployment
 - implemented several DX improvements to backend services:
   - {{<kwt "typescript graphql">}}added typescript, increased modularity and inversion of control{{</kwt>}}
   - increased test-coverage and utilities for TDD
   - {{<kwt "kubernetes docker mssql">}}utilities for repeatable fully-seeded test deployments{{</kwt>}}
-  - {{<kwt gitlab>}}optimisation and parallelisation of CI/CD pipelines{{</kwt>}}
+  - {{<kwt "gitlab docker">}}optimisation and parallelisation of CI/CD pipelines{{</kwt>}}
 
   which improved my team's confidence in delivery, code quality and cadence
 
@@ -26,15 +29,13 @@ London - 11/2019 - 2/2021
 - {{<kwt "typescript nestjs">}}improved performance of backend services by adding permissions-caching layers{{</kwt>}}
 - {{<kwt "aws">}}added compression to api responses validating 90% avg reduction in payload size, and 50% avg reduction in response times{{</kwt>}}
 - {{<kwt "typescript nestjs">}}helping improve system consistency by implementing utilities for optimistic concurrency control{{</kwt>}}
-- working closely with designers and other product stakeholders to ensure alignment with user needs
-- pushing for high technical standards and highlighting risks of excessive technical debt
 
 ### Vectary — 3D developer
 Bratislava - 06/2019 - 10/2019  
 - {{<kwt "threejs typescript">}}Refactoring and development of Vectary’s 3D-modelling engine (typescript and THREE.js){{</kwt>}}
 - {{<kwt webgl>}}researching modern and best-practice WebGL api usage{{</kwt>}}
 - making detailed optimisations for browser performance
-- responsible for developing robust importer/exporter tools for proprietary 3D file format by reverse-engineering
+- responsible for developing robust importer/exporter tools for proprietary 3D file formats
 - extensive use of v8 profiler in browser dev tools
 
 ### Subdigital — software developer

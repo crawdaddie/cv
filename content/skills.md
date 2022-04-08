@@ -4,7 +4,7 @@ title = "Skills / Interests"
 ## Programming Languages / Tools
 ### High Fluency
 -	{{<kw typescript>}}Typescript{{</kw>}}, {{<kw nodejs>}}Node.js{{</kw>}}, {{<kw express>}}Express{{</kw>}}, {{<kw nestjs>}}NestJS{{</kw>}}
--	{{<kw python>}}Python{{</kw>}}, {{<kw flask>}}Flask{{</kw>}}, FastApi
+-	{{<kw python>}}Python{{</kw>}}, {{<kw fastapi>}}FastApi{{</kw>}}
 - {{<kw graphql>}}graphql{{</kw>}}
 -	{{<kw postgresql>}}PostgreSQL{{</kw>}}, {{<kw mssql>}}SQL Server{{</kw>}}
 -	{{<kw kubernetes>}}kubernetes{{</kw>}}, {{<kw docker>}}Docker{{</kw>}}
@@ -15,8 +15,8 @@ title = "Skills / Interests"
 ### Intermediate Fluency
 -	{{<kw aws>}}AWS{{</kw>}}
 -	{{<kw threejs>}}THREE.js{{</kw>}}, {{<kw webgl>}}WebGL{{</kw>}}
-- {{<kw numpy>}}numpy{{</kw>}}, {{<kw matplotlib>}}matplotlib{{</kw>}}
--	{{<kw html>}}HTML{{</kw>}}, {{<kw css>}}CSS{{</kw>}}
+- {{<kw flask>}}Flask{{</kw>}}, {{<kw numpy>}}numpy{{</kw>}}
+- {{<kw html>}}HTML{{</kw>}}, {{<kw css>}}CSS{{</kw>}}
 
 ### Side Interests
 -	{{<kw supercollider>}}SuperCollider{{</kw>}}, Max/MSP, PureData
