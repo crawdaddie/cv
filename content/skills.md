@@ -8,11 +8,11 @@ title = "Skills / Interests"
 - {{<kw graphql>}}graphql{{</kw>}}
 -	{{<kw postgresql>}}PostgreSQL{{</kw>}}, {{<kw mssql>}}SQL Server{{</kw>}}
 -	{{<kw kubernetes>}}kubernetes{{</kw>}}, {{<kw docker>}}Docker{{</kw>}}
--	{{<kw aws>}}AWS{{</kw>}}
 -	{{<kw elasticsearch>}}ElasticSearch{{</kw>}}
 -	{{<kw reactjs>}}React{{</kw>}}
 
 ### Intermediate Fluency
+-	{{<kw aws>}}AWS{{</kw>}}
 -	{{<kw threejs>}}THREE.js{{</kw>}}, {{<kw webgl>}}WebGL{{</kw>}}
 - {{<kw numpy>}}numpy{{</kw>}}, {{<kw matplotlib>}}matplotlib{{</kw>}}
 -	{{<kw html>}}HTML{{</kw>}}, {{<kw css>}}CSS{{</kw>}}
