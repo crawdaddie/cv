@@ -10,11 +10,12 @@ I am most interested in roles where I can build on my technical leadership, and 
 ## Experience
 ### Curation Corporation - Senior backend engineer
 London - 6/2021 - present  
-- Development of tools and data pipelines that support ESG experts in synthesising smart insights and business intelligence
-- {{<kwt "typescript nodejs kubernetes docker graphql">}}designed, implemented and launched new features for creating automated email briefings which cut down the time taken to create briefings to 16% compared to previous non-integrated workflows{{</kwt>}}
-- {{<kwt "kubernetes elasticsearch nodejs">}}maintenance and tuning of ETL pipelines which process 3 million articles a day and push them to different search indices{{</kwt>}}
+- Development of internal tools consisting of a user-facing platform supporting ESG experts in synthesising smart insights and business intelligence from a wide variety of news sources
+- {{<kwt "typescript nodejs kubernetes docker graphql">}}designed, implemented and launched new features for creating automated email briefings which reduced the time taken to create briefings by 84% compared to previous non-integrated workflows{{</kwt>}}
+- {{<kwt "kubernetes elasticsearch nodejs">}}maintenance and tuning of data pipelines which process 3 million articles a day and push them to different search indices{{</kwt>}}
 - {{<kwt "python fastapi">}}productionisation and deployment of NLP models as FastAPI services for purposes of abstractive text-summarisation and entity extraction{{</kwt>}}   
-  in the case of abstractive text-summarisation performed on GPUs, this reduced the time taken to generate an abstract to 10% compared to a CPU-based deployment
+  in the case of abstractive text-summarisation performed on GPUs, I also managed securing the extra-cluster deployments from traffic outside our network and linking them to the rest of our infrastructure over a VPN  
+  this reduced the time taken to generate an abstract by 90% compared to a CPU-based deployment
 - implemented several DX improvements to backend services:
   - {{<kwt "typescript graphql">}}added typescript, increased modularity and inversion of control{{</kwt>}}
   - increased test-coverage and added backend test-suites to CI pipelines
