@@ -58,7 +58,9 @@ Bratislava -  11/2016 - 12/2017
 ### Institute of Sonology, Koninklijk Conservatorium — MMus
 Den Haag - 09/2014 - 10/2016
 - Thesis focusing on cyborg aesthetics in electronic music, but also studied music computing, design and development of software synthesis and music performance systems, history and theory of algorithmic music and sound studies
-- gave many concerts of my own music, often using self-built tools - took part in ensemble performances in the fields of free-improvisation and jazz-influenced electronics - gained experience of  curation and technical production of experimental music events
+- gave many concerts of my own music, often using self-built tools
+- took part in ensemble performances in the fields of free-improvisation and jazz-influenced electronics
+- gained experience of  curation and technical production of experimental music events
 
 ### Institute of Sonology, Koninklijk Conservatorium — One Year Cursus 
 Den Haag - 09/2013- 06/2014
