@@ -10,7 +10,6 @@ title = "Skills / Interests"
 -	{{<kw kubernetes>}}kubernetes{{</kw>}}, {{<kw docker>}}Docker{{</kw>}}
 -	{{<kw elasticsearch>}}ElasticSearch{{</kw>}}
 -	{{<kw reactjs>}}React{{</kw>}}
-- {{<kw github>}}GitHub{{</kw>}}, {{<kw gitlab>}}Gitlab{{</kw>}}
 
 ### Intermediate Fluency
 -	{{<kw aws>}}AWS{{</kw>}}
@@ -23,13 +22,13 @@ title = "Skills / Interests"
 - Rust, Go, haskell, {{<kw audio>}}audio programming{{</kw>}}
 - hardware prototyping ({{<kw hardware>}}arduino, raspberry pi{{</kw>}}, mechanical keyboards)
 
-## Selected Projects / Performances
+## Selected Projects
 - Lead developer on an interactive constraint problem solver gui (Octeract, London - 2/2021 - 6/2021)
   - {{<kwt "python docker">}}backend services that spawn dockerized python environments which offer interactive solving of MINLP problems expressed in python code{{</kwt>}}
   - {{<kwt "reactjs python">}}browser-based development environment and REPL communicating with python environments over websockets{{</kwt>}}
 - [{{<kwt "html css js">}}this CV{{</kwt>}}](https://github.com/crawdaddie/cv)
 - [{{<kwt "supercollider audio">}}Supercollider tools{{</kwt>}}](https://github.com/crawdaddie/sc-project-framework)  
-  {{<kwt "supercollider audio">}}project framework for algorithmic composition with.{{</kwt>}}
+  {{<kwt "supercollider audio">}}project framework for algorithmic composition{{</kwt>}}
   - {{<kwt "supercollider audio">}}missing module system / import syntax for supercollider{{</kwt>}}
   - {{<kwt "supercollider audio">}}gui event sequencer{{</kwt>}}
 - {{<kwt "hardware audio">}}Múzeum Slovenských národných rád, Myjava - 03/2019  

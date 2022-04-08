@@ -17,7 +17,7 @@ London - 6/2021 - present
   in the case of abstractive text-summarisation performed on GPUs, this reduced the time taken to generate an abstract to 10% compared to a CPU-based deployment
 - implemented several DX improvements to backend services:
   - {{<kwt "typescript graphql">}}added typescript, increased modularity and inversion of control{{</kwt>}}
-  - increased test-coverage and utilities for TDD
+  - increased test-coverage and added backend test-suites to CI pipelines
   - {{<kwt "kubernetes docker mssql">}}utilities for repeatable fully-seeded test deployments{{</kwt>}}
   - {{<kwt "gitlab docker">}}optimisation and parallelisation of CI/CD pipelines{{</kwt>}}
 
@@ -25,7 +25,7 @@ London - 6/2021 - present
 
 ### Birdie — Full-stack developer
 London - 11/2019 - 2/2021  
-- Development of various frontend and backend components of Birdie’s elderly care software ecosystem 
+- {{<kwt "typescript postgresql reactjs">}}Development of various frontend and backend components of Birdie’s elderly care software ecosystem{{}}
 - {{<kwt "typescript nestjs">}}improved performance of backend services by adding permissions-caching layers{{</kwt>}}
 - {{<kwt "aws">}}added compression to api responses validating 90% avg reduction in payload size, and 50% avg reduction in response times{{</kwt>}}
 - {{<kwt "typescript nestjs">}}helping improve system consistency by implementing utilities for optimistic concurrency control{{</kwt>}}
@@ -33,16 +33,13 @@ London - 11/2019 - 2/2021
 ### Vectary — 3D developer
 Bratislava - 06/2019 - 10/2019  
 - {{<kwt "threejs typescript">}}Refactoring and development of Vectary’s 3D-modelling engine (typescript and THREE.js){{</kwt>}}
-- {{<kwt webgl>}}researching modern and best-practice WebGL api usage{{</kwt>}}
-- making detailed optimisations for browser performance
+- making detailed optimisations for browser performance through extensive use of the v8 profiler in chrome's dev tools
 - responsible for developing robust importer/exporter tools for proprietary 3D file formats
-- extensive use of v8 profiler in browser dev tools
 
 ### Subdigital — software developer
 Bratislava - 08/2018 - 06/2019  
-- Design and development of software components of digitally-enhanced architectural models and installations
+- Design and development of hardware software components of digitally-enhanced architectural models and installations
 - building prototypes that helped Subdigital develop new clients 
-- responsibility for architecture of hardware and software components of installations
 - {{<kwt hardware>}}building sensors and controllers with arduino and raspberry pi{{</kwt>}}
 - {{<kwt "nodejs typescript html css">}}building backends with node.js and typescript, user interfaces with vanillajs{{</kwt>}}
 - {{<kwt "numpy matplotlib">}}Mathematical modelling to optimise custom tools in Grasshopper for Rhino (also using numpy for prototyping solutions){{</kwt>}}
