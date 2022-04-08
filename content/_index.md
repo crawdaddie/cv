@@ -6,48 +6,53 @@ Backend engineer with 6 years of experience passionate about new technologies, e
 
 ## Experience
 ### Curation Corporation - Senior backend engineer
-#### London - 6/2021 - present
-Development of tools and data pipelines that support ESG experts in synthesising smart insights and business intelligence
-- {{<kwt "typescript nodejs kubernetes docker">}}designed, implemented and launched new services for creating automated email briefings which cut down the time taken to create briefings by a factor of 6{{</kwt>}}
-<!-- - {{}}{{}} -->
+London - 6/2021 - present  
+- Development of tools and data pipelines that support ESG experts in synthesising smart insights and business intelligence
+- {{<kwt "typescript nodejs kubernetes docker graphql">}}designed, implemented and launched new features for creating automated email briefings which cut down the time taken to create briefings to 16% compared to previous non-integrated workflows{{</kwt>}}
+- {{<kwt "kubernetes elasticsearch nodejs">}}maintenance and tuning of ETL pipelines which process 3 million articles a day and push them to different search indices{{</kwt>}}
+- {{<kwt "python fastapi">}}productionisation and deployment of NLP models as FastAPI services for purposes of abstractive text-summarisation and entity extraction{{</kwt>}}   
+  in the case of abstractive text-summarisation services on GPUs, this reduced the time taken to generate an abstract to 10% compared to a CPU-based deployment
+- implemented several DX improvements to backend services:
+  - {{<kwt "typescript graphql">}}added typescript, increased modularity and inversion of control{{</kwt>}}
+  - increased test-coverage and utilities for TDD
+  - {{<kwt "kubernetes docker mssql">}}utilities for repeatable fully-seeded test deployments{{</kwt>}}
+  - {{<kwt gitlab>}}optimisation and parallelisation of CI/CD pipelines{{</kwt>}}
 
-### Octeract — Full-stack developer
-#### London - 2/2021 - 6/2021 
-Lead developer on Octeract’s interactive MINLP solver gui 
-- {{<kwt "python docker">}}backend services that spawn dockerized python environments which offer interactive solving of MINLP problems expressed in python code{{</kwt>}}
-- {{<kwt "reactjs python">}}browser-based development environment and REPL communicating with python environments over websockets{{</kwt>}}
+  which improved my team's confidence in delivery, code quality and cadence
 
 ### Birdie — Full-stack developer
-#### London - 11/2019 - 2/2021
-Development of various frontend and backend components of Birdie’s elderly care software ecosystem by 
+London - 11/2019 - 2/2021  
+- Development of various frontend and backend components of Birdie’s elderly care software ecosystem 
 - {{<kwt "typescript nestjs">}}improved performance of backend services by adding permissions-caching layers{{</kwt>}}
 - {{<kwt "aws">}}added compression to api responses validating 90% avg reduction in payload size, and 50% avg reduction in response times{{</kwt>}}
 - {{<kwt "typescript nestjs">}}helping improve system consistency by implementing utilities for optimistic concurrency control{{</kwt>}}
 - working closely with designers and other product stakeholders to ensure alignment with user needs
 - pushing for high technical standards and highlighting risks of excessive technical debt
 
-
 ### Vectary — 3D developer
-#### Bratislava - 06/2019 - 10/2019
-{{<kwt "threejs typescript">}}Refactoring and development of Vectary’s 3D-modelling engine (typescript and THREE.js){{</kwt>}}
+Bratislava - 06/2019 - 10/2019  
+- {{<kwt "threejs typescript">}}Refactoring and development of Vectary’s 3D-modelling engine (typescript and THREE.js){{</kwt>}}
 - {{<kwt webgl>}}researching modern and best-practice WebGL api usage{{</kwt>}}
 - making detailed optimisations for browser performance
 - responsible for developing robust importer/exporter tools for proprietary 3D file format by reverse-engineering
 - extensive use of v8 profiler in browser dev tools
+
 ### Subdigital — software developer
-#### Bratislava - 08/2018 - 06/2019
-Design and development of software components of digitally-enhanced architectural models and installations
+Bratislava - 08/2018 - 06/2019  
+- Design and development of software components of digitally-enhanced architectural models and installations
 - building prototypes that helped Subdigital develop new clients 
 - responsibility for architecture of hardware and software components of installations
 - {{<kwt hardware>}}building sensors and controllers with arduino and raspberry pi{{</kwt>}}
 - {{<kwt "nodejs typescript html css">}}building backends with node.js and typescript, user interfaces with vanillajs{{</kwt>}}
 - {{<kwt "numpy matplotlib">}}Mathematical modelling to optimise custom tools in Grasshopper for Rhino (also using numpy for prototyping solutions){{</kwt>}}
+
 ### Lab.SNG — software developer
-#### Bratislava - 01/2018 - 06/2019
+Bratislava - 01/2018 - 06/2019  
 - {{<kwt "elasticsearch">}}Development and maintenance of the web-umenia search API for the archives of the Slovak National Gallery{{</kwt>}}
 - {{<kwt "docker">}}introducing Docker to team workflow{{</kwt>}}
+
 ### Kiwi.com — Junior Python Developer
-#### Bratislava -  11/2016 - 12/2017
+Bratislava -  11/2016 - 12/2017
 - {{<kwt "django docker elasticsearch postgresql">}}Development of internal HR software using Django, Docker and elasticsearch{{</kwt>}}
 
 ## Education 
