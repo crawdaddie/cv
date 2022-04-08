@@ -25,7 +25,7 @@ London - 6/2021 - present
 
 ### Birdie — Full-stack developer
 London - 11/2019 - 2/2021  
-- {{<kwt "typescript postgresql reactjs">}}Development of various frontend and backend components of Birdie’s elderly care software ecosystem{{}}
+- {{<kwt "typescript postgresql $hljtjs">}}Development of various frontend and backend components of Birdie’s elderly care software ecosystem{{</kwt>}}
 - {{<kwt "typescript nestjs">}}improved performance of backend services by adding permissions-caching layers{{</kwt>}}
 - {{<kwt "aws">}}added compression to api responses validating 90% avg reduction in payload size, and 50% avg reduction in response times{{</kwt>}}
 - {{<kwt "typescript nestjs">}}helping improve system consistency by implementing utilities for optimistic concurrency control{{</kwt>}}

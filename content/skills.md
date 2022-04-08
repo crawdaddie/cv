@@ -13,13 +13,12 @@ title = "Skills / Interests"
 
 ### Intermediate Fluency
 -	{{<kw aws>}}AWS{{</kw>}}
--	{{<kw threejs>}}THREE.js{{</kw>}}, {{<kw webgl>}}WebGL{{</kw>}}
 - {{<kw flask>}}Flask{{</kw>}}, {{<kw numpy>}}numpy{{</kw>}}
 - {{<kw html>}}HTML{{</kw>}}, {{<kw css>}}CSS{{</kw>}}
 
 ### Side Interests
--	{{<kw supercollider>}}SuperCollider{{</kw>}}, Max/MSP, PureData
-- Rust, Go, haskell, {{<kw audio>}}audio programming{{</kw>}}
+-	{{<kw supercollider>}}SuperCollider{{</kw>}}, Max/MSP, {{<kw audio>}}audio programming{{</kw>}}
+- Rust, Go
 - hardware prototyping ({{<kw hardware>}}arduino, raspberry pi{{</kw>}}, mechanical keyboards)
 
 ## Selected Projects
