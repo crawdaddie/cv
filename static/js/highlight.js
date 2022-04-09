@@ -1,6 +1,5 @@
 const hoverSources = [...document.getElementsByClassName("keyword-hover-source")];
 const hoverTargets = [...document.getElementsByClassName("keyword-hover-target")];
-console.log(hoverSources, hoverTargets)
 
 const getKeywords = (target) => {
   return target.dataset.keywords?.split(' ')

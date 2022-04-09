@@ -1,7 +1,7 @@
 +++
 title = "Skills / Interests"
 +++
-## Programming Languages / Tools
+## Skills
 ### High Fluency
 -	{{<kw typescript>}}Typescript{{</kw>}}, {{<kw nodejs>}}Node.js{{</kw>}}, {{<kw express>}}Express{{</kw>}}, {{<kw nestjs>}}NestJS{{</kw>}}
 -	{{<kw python>}}Python{{</kw>}}, {{<kw fastapi>}}FastApi{{</kw>}}

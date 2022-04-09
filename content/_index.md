@@ -8,25 +8,26 @@ In my most recent roles I have focused on optimising my backend work for consist
 I am most interested in roles where I can build on my technical leadership, and work on distributed, data-intensive cloud-native systems.
 
 ## Experience
-### Curation Corporation - Senior backend engineer
+### Curation Corporation - Senior backend developer
 London - 6/2021 - present  
 - Development of internal tools consisting of a user-facing platform supporting ESG experts in synthesising smart insights and business intelligence from a wide variety of news sources
 - {{<kwt "typescript nodejs kubernetes docker graphql">}}designed, implemented and launched new features for creating automated email briefings which reduced the time taken to create briefings by 84% compared to previous non-integrated workflows{{</kwt>}}
 - {{<kwt "kubernetes elasticsearch nodejs">}}maintenance and tuning of data pipelines which process 3 million articles a day and push them to different search indices{{</kwt>}}
 - {{<kwt "python fastapi">}}productionisation and deployment of NLP models as FastAPI services for purposes of abstractive text-summarisation and entity extraction{{</kwt>}}   
-  in the case of abstractive text-summarisation performed on GPUs, I also managed securing the extra-cluster deployments from traffic outside our network and linking them to the rest of our infrastructure over a VPN  
+  in the case of abstractive text-summarisation performed on GPUs, I also managed securing the extra-cluster deployments from traffic outside our network and linking them to the rest of our infrastructure over a VPN.  
   this reduced the time taken to generate an abstract by 90% compared to a CPU-based deployment
-- implemented several DX improvements to backend services:
-  - {{<kwt "typescript graphql">}}added typescript, increased modularity and inversion of control{{</kwt>}}
+- implemented several DX improvements to our backend codebase:
+  - {{<kwt "typescript graphql">}}championed use of typescript and increased modularity with some instances of dependency injection{{</kwt>}}
   - increased test-coverage and added backend test-suites to CI pipelines
+  - database migrations
   - {{<kwt "kubernetes docker mssql">}}utilities for repeatable fully-seeded test deployments{{</kwt>}}
   - {{<kwt "gitlab docker">}}optimisation and parallelisation of CI/CD pipelines{{</kwt>}}
 
-  which improved my team's confidence in delivery, code quality and cadence
+  which greatly improved my team's confidence in delivery, code quality and cadence
 
 ### Birdie — Full-stack developer
 London - 11/2019 - 2/2021  
-- {{<kwt "typescript postgresql $hljtjs">}}Development of various frontend and backend components of Birdie’s elderly care software ecosystem{{</kwt>}}
+- {{<kwt "typescript postgresql reactjs nestjs">}}Development of various frontend and backend components of Birdie’s elderly care software ecosystem{{</kwt>}}
 - {{<kwt "typescript nestjs">}}improved performance of backend services by adding permissions-caching layers{{</kwt>}}
 - {{<kwt "aws">}}added compression to api responses validating 90% avg reduction in payload size, and 50% avg reduction in response times{{</kwt>}}
 - {{<kwt "typescript nestjs">}}helping improve system consistency by implementing utilities for optimistic concurrency control{{</kwt>}}
@@ -37,7 +38,7 @@ Bratislava - 06/2019 - 10/2019
 - making detailed optimisations for browser performance through extensive use of the v8 profiler in chrome's dev tools
 - responsible for developing robust importer/exporter tools for proprietary 3D file formats
 
-### Subdigital — software developer
+### Subdigital — Software developer
 Bratislava - 08/2018 - 06/2019  
 - Design and development of hardware software components of digitally-enhanced architectural models and installations
 - building prototypes that helped Subdigital develop new clients 
@@ -45,19 +46,19 @@ Bratislava - 08/2018 - 06/2019
 - {{<kwt "nodejs typescript html css">}}building backends with node.js and typescript, user interfaces with vanillajs{{</kwt>}}
 - {{<kwt "numpy matplotlib">}}Mathematical modelling to optimise custom tools in Grasshopper for Rhino (also using numpy for prototyping solutions){{</kwt>}}
 
-### Lab.SNG — software developer
+### Lab.SNG — Software developer
 Bratislava - 01/2018 - 06/2019  
 - {{<kwt "elasticsearch">}}Development and maintenance of the web-umenia search API for the archives of the Slovak National Gallery{{</kwt>}}
 - {{<kwt "docker">}}introducing Docker to team workflow{{</kwt>}}
 
-### Kiwi.com — Junior Python Developer
+### Kiwi.com — Junior python developer
 Bratislava -  11/2016 - 12/2017
-- {{<kwt "django docker elasticsearch postgresql">}}Development of internal HR software using Django, Docker and elasticsearch{{</kwt>}}
+- {{<kwt "django docker elasticsearch postgresql">}}Development of internal HR software using Django{{</kwt>}}
 
 ## Education 
 ### Institute of Sonology, Koninklijk Conservatorium — MMus
 Den Haag - 09/2014 - 10/2016
-- Thesis focusing on cyborg aesthetics in electronic music, but also studied music computing, design and development of software synthesis and music performance systems, history and theory of algorithmic music and sound studies
+- studied music computing, design and development of software synthesis and music performance systems, history and theory of algorithmic music and sound studies
 - gave many concerts of my own music, often using self-built tools
 - took part in ensemble performances in the fields of free-improvisation and jazz-influenced electronics
 - gained experience of  curation and technical production of experimental music events
