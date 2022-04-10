@@ -23,8 +23,8 @@ title = "Skills / Interests"
 
 ## Selected Projects
 - Lead developer on an interactive non-linear-constraint problem solver gui (Octeract, London - 2/2021 - 6/2021)
-  - {{<kwt "python docker">}}backend services that spawn dockerized python environments which offer interactive solving of MINLP problems expressed in python code{{</kwt>}}
-  - {{<kwt "reactjs python">}}browser-based development environment and REPL communicating with python environments over websockets{{</kwt>}}
+  - {{<kwt "python docker">}}backend services that spawn dockerized python environments which offer interactive solving of MINLP problems using Octeract's libraries{{</kwt>}}
+  - {{<kwt "reactjs python">}}browser development environment and REPL communicating with python environments over websockets{{</kwt>}}
 - [{{<kwt "html css js">}}this CV{{</kwt>}}](https://github.com/crawdaddie/cv)
 - [{{<kwt "supercollider audio">}}Supercollider tools{{</kwt>}}](https://github.com/crawdaddie/sc-project-framework)  
   {{<kwt "supercollider audio">}}project framework for algorithmic composition{{</kwt>}}
