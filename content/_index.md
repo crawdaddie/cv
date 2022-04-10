@@ -11,7 +11,7 @@ I am most interested in roles where I can build on my technical leadership, and 
 ### Curation Corporation - Senior backend developer
 London - 6/2021 - present  
 - Development of internal tools consisting of a user-facing platform supporting ESG experts in synthesising smart insights and business intelligence from a wide variety of news sources
-- {{<kwt "typescript nodejs kubernetes docker graphql">}}designed and implemented services for creating automated email briefings which reduced the time taken to create briefings by 84% compared to previous non-integrated workflows{{</kwt>}}
+- {{<kwt "typescript nodejs kubernetes docker graphql">}}designed and implemented backend services for creating automated email briefings which helped reduce the time taken to create briefings by 84% compared to previous non-integrated workflows, and assisted with the creation of UIs for these tools{{</kwt>}}
 - {{<kwt "kubernetes elasticsearch nodejs">}}maintenance and tuning of data pipelines which process up to 300,000 articles a day and push them to different search indices{{</kwt>}}
 - {{<kwt "python fastapi">}}productionisation and deployment of NLP models as FastAPI services for purposes of abstractive text-summarisation and entity extraction{{</kwt>}}   
   in the case of abstractive text-summarisation performed on GPUs, I also managed securing the extra-cluster deployments from traffic outside our network and linking them to the rest of our infrastructure over a VPN.  
@@ -43,8 +43,8 @@ Bratislava - 08/2018 - 06/2019
 - Design and development of hardware software components of digitally-enhanced architectural models and installations
 - building prototypes that helped Subdigital develop new clients 
 - {{<kwt hardware>}}building sensors and controllers with arduino and raspberry pi{{</kwt>}}
-- {{<kwt "nodejs typescript html css">}}building backends with node.js and typescript, user interfaces with vanillajs{{</kwt>}}
-- {{<kwt "numpy matplotlib">}}Mathematical modelling to optimise custom tools in Grasshopper for Rhino (also using numpy for prototyping solutions){{</kwt>}}
+- {{<kwt "nodejs typescript html css flask">}}building backends with node.js, typescript or python, user interfaces with vanillajs{{</kwt>}}
+- {{<kwt "numpy matplotlib">}}mathematical modelling to optimise custom tools in Grasshopper for Rhino (also using numpy for prototyping solutions){{</kwt>}}
 
 ### Lab.SNG — Software developer
 Bratislava - 01/2018 - 06/2019  

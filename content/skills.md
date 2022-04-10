@@ -29,6 +29,7 @@ title = "Skills / Interests"
 - [{{<kwt "supercollider audio">}}Supercollider tools{{</kwt>}}](https://github.com/crawdaddie/sc-project-framework)  
   {{<kwt "supercollider audio">}}project framework for algorithmic composition{{</kwt>}}
   - {{<kwt "supercollider audio">}}missing module system / import syntax for supercollider{{</kwt>}}
+  - [{{<kwt "supercollider">}}utilities{{</kwt>}}](https://github.com/crawdaddie/sc-project-framework/tree/main/classes/Project) for linking versions of generative elements of a project (code) with static ones (eg specific synth parameters or presets) so that the state of a project can be easily recalled
   - {{<kwt "supercollider audio">}}gui event sequencer{{</kwt>}}
 - {{<kwt "hardware audio">}}Múzeum Slovenských národných rád, Myjava - 03/2019  
   Audio installation with ultrasonic distance sensors and arduino microcontrollers
