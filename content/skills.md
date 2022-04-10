@@ -19,7 +19,7 @@ title = "Skills / Interests"
 ### Side Interests
 -	{{<kw supercollider>}}SuperCollider{{</kw>}}, Max/MSP, {{<kw audio>}}audio programming{{</kw>}}
 - Rust, Go
-- hardware prototyping ({{<kw hardware>}}arduino, raspberry pi{{</kw>}}, mechanical keyboards)
+- hardware prototyping with microcontrollers ({{<kw hardware>}}arduino, raspberry pi{{</kw>}}, mechanical keyboards)
 
 ## Selected Projects
 - Lead developer on an interactive non-linear-constraint problem solver gui (Octeract, London - 2/2021 - 6/2021)

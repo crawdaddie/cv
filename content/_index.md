@@ -4,15 +4,15 @@ title = "Adam Juraszek | Resume"
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 Backend engineer with 6 years of experience passionate about experimentation and clean solutions.  
 I work closely with product stakeholders to ensure alignment with user needs, and try to learn as much as possible from every member of a team I interact with.  
-In my most recent roles I have focused on optimising my backend work for consistency, fault-tolerance and observability, while pushing for high technical standards from myself and colleagues.  
-I am most interested in roles where I can build on my technical leadership, and work on distributed, data-intensive cloud-native systems.
+In my most recent roles I have focused on optimising my backend work for consistency and fault-tolerance, while pushing for high technical standards from myself and colleagues.  
+I am most interested in roles where I can build on my technical leadership, and work on distributed, data-intensive systems.
 
 ## Experience
 ### Curation Corporation - Senior backend developer
 London - 6/2021 - present  
 - Development of internal tools consisting of a user-facing platform supporting ESG experts in synthesising smart insights and business intelligence from a wide variety of news sources
-- {{<kwt "typescript nodejs kubernetes docker graphql">}}designed, implemented and launched new features for creating automated email briefings which reduced the time taken to create briefings by 84% compared to previous non-integrated workflows{{</kwt>}}
-- {{<kwt "kubernetes elasticsearch nodejs">}}maintenance and tuning of data pipelines which process 3 million articles a day and push them to different search indices{{</kwt>}}
+- {{<kwt "typescript nodejs kubernetes docker graphql">}}designed and implemented services for creating automated email briefings which reduced the time taken to create briefings by 84% compared to previous non-integrated workflows{{</kwt>}}
+- {{<kwt "kubernetes elasticsearch nodejs">}}maintenance and tuning of data pipelines which process up to 300,000 articles a day and push them to different search indices{{</kwt>}}
 - {{<kwt "python fastapi">}}productionisation and deployment of NLP models as FastAPI services for purposes of abstractive text-summarisation and entity extraction{{</kwt>}}   
   in the case of abstractive text-summarisation performed on GPUs, I also managed securing the extra-cluster deployments from traffic outside our network and linking them to the rest of our infrastructure over a VPN.  
   this reduced the time taken to generate an abstract by 90% compared to a CPU-based deployment
@@ -58,7 +58,7 @@ Bratislava -  11/2016 - 12/2017
 ## Education 
 ### Institute of Sonology, Koninklijk Conservatorium — MMus
 Den Haag - 09/2014 - 10/2016
-- studied music computing, design and development of software synthesis and music performance systems, history and theory of algorithmic music and sound studies
+- Studied music computing, design and development of software synthesis and music performance systems, history and theory of algorithmic music and sound studies
 - gave many concerts of my own music, often using self-built tools
 - took part in ensemble performances in the fields of free-improvisation and jazz-influenced electronics
 - gained experience of  curation and technical production of experimental music events
